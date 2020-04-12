@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Alvin Zhang</title>
+        <link rel="stylesheet" type="text/css" href="main.css"/>
+    </head>
+    <body>
+        <div class="section">
+    <div class="container header-container">
+        <div class="columns" style="flex: 1;">
+            <div class="column has-content-centered size-10 header">
+                <div>
+                    <h1 style="text-align: center;">
+                        Alvin Zhang
+                    </h1>
+                    <h2 class="gradient" style="text-align: center;">
+                        Wappingers Falls, NY
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="columns white-bg tall" style="flex: 4;">
+            <div class="column has-content-centered size-10 header">
+                <div class="buttons">
+                    <a href="https://github.com/alvinoacids" class="button">GitHub</a>
+                    <a href="https://www.linkedin.com/in/zhanga7/" class="button">Linkedin</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </body>
+</html>
