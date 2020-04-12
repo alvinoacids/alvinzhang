@@ -33,8 +33,8 @@ body {
 #nav a:link { color: white}
 #nav a:visited {color: white}
 #nav a:active {color: white}
-#nav a:hover { color: orange;}
-#nav a:focus { color: orange;}
+#nav a:hover { color: #cc99ff;}
+#nav a:focus { color: #cc99ff;}
 
 #main{
     width: 50%;
