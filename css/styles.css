@@ -24,7 +24,7 @@ body {
 #nav a {
     background-color: black;
     display: inline;
-    padding: 5px 5px;
+    padding: 0 10px;
     text-decoration: none;
     font-family: -apple-system, BlinkMacSystemFont,"Roboto", sans-serif;
     font-weight: 300;
