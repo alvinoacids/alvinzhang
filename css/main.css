@@ -106,15 +106,15 @@ html {
 }
 
 .buttons {
-  width: 150px;
-  margin-top: 15px;
+  width: 200px;
+  margin-top: 20px;
   display: flex;
   flex-flow: column;
 }
 
 .button {
   color: #fff;
-  font-size: 15px;
+  font-size: 18px;
   position: relative;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -124,7 +124,7 @@ html {
   border-radius: 7px;
   outline: none;
   cursor: pointer;
-  font-weight: 300;
+  font-weight: 400;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
