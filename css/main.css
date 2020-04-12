@@ -48,10 +48,10 @@ html {
 }
 
 .gradient {
-  background: -webkit-gradient(linear, left top, left bottom, from(#fe8f08), to(#ff49cb));
-  background: -webkit-linear-gradient(#fe8f08, #ff49cb);
-  background: -o-linear-gradient(#fe8f08, #ff49cb);
-  background: linear-gradient(#fe8f08, #ff49cb);
+  background: -webkit-gradient(linear, left top, left bottom, from(#cc99ff), to(#99d6ff));
+  background: -webkit-linear-gradient(#cc99ff, #99d6ff);
+  background: -o-linear-gradient(#cc99ff, #99d6ff);
+  background: linear-gradient(#cc99ff, #99d6ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
