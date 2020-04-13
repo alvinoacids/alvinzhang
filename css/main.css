@@ -14,18 +14,15 @@ html {
   justify-content: space-between;
   align-items: center;
 }
-
 .site-header .title {
   flex: 5;
 }
-
 .site-header .nav {
   flex: 5;
   justify-content: flex-end;
   flex-flow: row;
   display: flex;
 }
-
 .site-header .nav a {
   margin-left: 20px;
   margin-right: 20px;
@@ -56,6 +53,10 @@ html {
   background: linear-gradient(#cc99ff, #99d6ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.header {
+  color: white;
 }
 
 .columns {
